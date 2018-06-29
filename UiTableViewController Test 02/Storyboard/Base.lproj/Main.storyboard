@@ -110,7 +110,6 @@
                     </navigationItem>
                     <connections>
                         <outlet property="searchBar" destination="XbG-13-LQM" id="WmO-Ir-JDu"/>
-                        <outlet property="showMeWhere" destination="KXw-xf-XFb" id="GwM-2d-Yai"/>
                     </connections>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ppm-sE-6qu" userLabel="First Responder" sceneMemberID="firstResponder"/>
